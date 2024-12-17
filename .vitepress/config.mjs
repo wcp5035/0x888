@@ -6,11 +6,36 @@ export default defineConfig({
   title: "🐱‍👤币加索聚合",
   description: "haha",
   srcDir: "docs",
+  lastUpdated: true,
+  cleanUrls: true,
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: { src: '/logo.png', width: 24, height: 24 },
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'full',
+        hourCycle: 'h24'
+      }
+    },
+
+    // 文章翻页
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+    },
+
+    // 移动端 - 返回顶部
+    returnToTopLabel: '返回顶部',
+
+    // 移动端 - menu
+    sidebarMenuLabel: '文章',
+    
     nav: [
       { text: '毕加索聚合', link: '/' },
-      { text: '频道列表', link: '/' },
+      { text: '频道列表', link: '/team' },
       {
          text: '学习课件', 
          items: [{
@@ -20,7 +45,7 @@ export default defineConfig({
 
          ]
          },
-      { text: '订阅计划', link: '/' },
+      { text: '订阅计划', link: '/mddang.md' },
       { text: '联系我们', link: '/' },
       { text: '订最新动态', link: '/' },
     ],
