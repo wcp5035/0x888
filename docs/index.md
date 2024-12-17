@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 实列
-      link: /毕加索代理
+      link: /毕加索代理.md
     - theme: alt
       text: API 文档
       link: /api-examples
