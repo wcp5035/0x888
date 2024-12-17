@@ -15,7 +15,7 @@ hero:
       text: 实列
       link: /team.md
     - theme: alt
-      text: API 文档
+      text: 😇新手入门
       link: /home.md
 
 features:
