@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-// base: "/docs-demo/"
+// base: "/docs-demo/" 这个是用来配置单域名多站点的情况的，没这个需求就不用配置
 export default defineConfig({
   title: "🐱‍👤币加索聚合",
   description: "haha",
