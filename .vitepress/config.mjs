@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-base: "/docs-demo/"
+// base: "/docs-demo/"
 export default defineConfig({
   title: "🐱‍👤币加索聚合",
   description: "haha",
