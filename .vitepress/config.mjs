@@ -107,7 +107,7 @@ export default defineConfig({
           { text: '#策略推送', link: '/KOL收录清单/策略推过类博主.md'},
           { text: '#技术分析', link: '/KOL收录清单/技术分析.md' },
           { text: '#空投博主', link: '/KOL收录清单/空投博主.md' },
-          { text: '#一级市场', link: '/KOL收录清单/一级市场打新.md ' },
+          { text: '#一级市场', link: '/KOL收录清单/一级市场打新.md ' }
         ]
       },{
         text: '66666#',
