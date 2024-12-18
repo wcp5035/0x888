@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 // base: "/docs-demo/" 这个是用来配置单域名多站点的情况的，没这个需求就不用配置
 export default defineConfig({
-  title: "🐱‍👤币加索聚合",
+  title: "币加索聚合",
   description: "haha",
   srcDir: "docs",
   lastUpdated: true,
@@ -36,15 +36,6 @@ export default defineConfig({
     nav: [
       { text: '毕加索聚合', link: '/' },
       { text: '频道列表', link: '/team' },
-      {
-         text: '学习课件', 
-         items: [{
-          text:' 聚合清单',
-          link: '/home'
-         }
-
-         ]
-         },
       { text: '订阅计划', link: '/mddang.md' },
       { text: '联系我们', link: '/' },
       { text: '订最新动态', link: '/' },
@@ -52,6 +43,45 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '系统课程',
+        collapsed:true,
+        items: [
+          { text: '课程1', link: '/markdown-examples'},
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程25', link: '/api-examples' } 
+        ]
+      },{
+        text: '系统课程',
+        collapsed:true,
+        items: [
+          { text: '课程1', link: '/markdown-examples'},
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程25', link: '/api-examples' } 
+        ]
+      },{
+        text: '系统课程',
+        collapsed:true,
+        items: [
+          { text: '课程1', link: '/markdown-examples'},
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程25', link: '/api-examples' } 
+        ]
+      },      {
         text: '系统课程',
         collapsed:true,
         items: [
