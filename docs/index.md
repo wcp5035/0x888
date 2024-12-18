@@ -16,7 +16,7 @@ hero:
       link: /team.md
     - theme: alt
       text: 😇新手入门
-      link: /home.md
+      link: /KOL收录清单/策略推过类博主
 
 features:
   - title: '<span style="display: inline-flex; align-items: center;"><img src="index/netflix.svg" style="height:27px; margin-right:0.5rem;"/>流媒体观影</span>'
