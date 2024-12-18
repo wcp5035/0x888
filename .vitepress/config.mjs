@@ -21,17 +21,25 @@ export default defineConfig({
       }
     },
 
+
+ // 上次更新时间戳
+ lastUpdated: true,
     // 文章翻页
     docFooter: {
       prev: '上一篇',
       next: '下一篇'
     },
-
+    search: {
+      provider: 'algolia',
+      options: algolia
+    },
+    outline: 'deep', // 索引级别
+    outlineTitle: '本页目录', // 目录文本
     // 移动端 - 返回顶部
     returnToTopLabel: '返回顶部',
 
     // 移动端 - menu
-    sidebarMenuLabel: '文章',
+    sidebarMenuLabel: '毕加索聚合社区',
     
     nav: [
       { text: '毕加索聚合', link: '/' },
@@ -43,7 +51,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '系统课程',
+        text: '1系统课程#',
+        collapsed:true,
+        items: [{ text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程2s', link: '/api-examples' },
+          { text: '课程25', link: '/api-examples' } 
+        ]
+      },{
+        text: '2系统课程#',
         collapsed:true,
         items: [
           { text: '课程1', link: '/markdown-examples'},
@@ -56,7 +75,7 @@ export default defineConfig({
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '系统课程',
+        text: '3系统课程#',
         collapsed:true,
         items: [
           { text: '课程1', link: '/markdown-examples'},
@@ -69,20 +88,7 @@ export default defineConfig({
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '系统课程',
-        collapsed:true,
-        items: [
-          { text: '课程1', link: '/markdown-examples'},
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程25', link: '/api-examples' } 
-        ]
-      },      {
-        text: '系统课程',
+        text: '4系统课程#',
         collapsed:true,
         items: [
           { text: '课程1', link: '/markdown-examples'},
@@ -95,7 +101,16 @@ export default defineConfig({
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '系统课程',
+        text: 'KOL收录##',
+        collapsed:true,
+        items: [
+          { text: '#策略推送', link: '/KOL收录清单/策略推过类博主.md'},
+          { text: '#技术分析', link: '/KOL收录清单/技术分析.md' },
+          { text: '#空投博主', link: '/KOL收录清单/空投博主.md' },
+          { text: '#一级市场', link: '/KOL收录清单/一级市场打新.md ' },
+        ]
+      },{
+        text: '66666#',
         collapsed:true,
         items: [
           { text: '课程1', link: '/markdown-examples'},
