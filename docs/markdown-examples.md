@@ -75,7 +75,7 @@ This is a warning.
 ::: danger
 This is a dangerous warning.
 :::
-
+[text](/示例.pdf)
 ::: details
 This is a details block.
 :::
