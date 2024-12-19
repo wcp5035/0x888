@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "medium-zoom": "^1.1.0",
+    "minisearch": "^7.1.1",
     "viewerjs": "^1.11.7",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-image-viewer": "^1.1.5"
