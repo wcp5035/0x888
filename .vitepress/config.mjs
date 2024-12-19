@@ -112,7 +112,7 @@ export default defineConfig({
             collapsed:true,
             items: [
               { text: '小节1', link: '/new-submenu1' },
-              { text: '小节2', link: '/new-submenu2' }
+              { text: '小节23', link: '/new-submenu2' }
             ]
           },
           { text: '币圈圣经', link: '/api-examples' },
