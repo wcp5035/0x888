@@ -111,8 +111,8 @@ export default defineConfig({
             text: '技术类课程',
             collapsed:true,
             items: [
-              { text: '小节99999', link: '/new-submenu1' },
-              { text: '小节3', link: '/new-submenu2' }
+              { text: '小节1', link: '/new-submenu1' },
+              { text: '小节2', link: '/new-submenu2' }
             ]
           },
           { text: '币圈圣经', link: '/api-examples' },
