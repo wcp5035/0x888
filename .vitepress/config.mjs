@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 // base: "/docs-demo/" 这个是用来配置单域名多站点的情况的，没这个需求就不用配置
 export default defineConfig({
-  title: "🐱‍👤币加索聚合",
+  title: "XMDOG",
   description: "haha",
   srcDir: "docs",
   lastUpdated: true,
@@ -31,7 +31,7 @@ export default defineConfig({
     returnToTopLabel: '返回顶部',
 
     // 移动端 - menu
-    sidebarMenuLabel: '文章',
+    sidebarMenuLabel: '目录',
     
     nav: [
       { text: '毕加索聚合', link: '/' },

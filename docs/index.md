@@ -1,8 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: 毕加索聚合
-titleTemplate: 加密贴身专家
+title: XMDog
+titleTemplate: 加密贴身专家，泄密狗
 hero:
   name: "付费加密信号"
   text: "利用我们的信号获利"
