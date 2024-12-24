@@ -55,7 +55,7 @@ export default defineConfig({
         text: '1',
         collapsed:true,
         items: [
-          { text: '课程1', link: '/markdown-examples'},
+          { text: '课程1', link: '/pdjg.md'},
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
