@@ -104,15 +104,18 @@ export default defineConfig({
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '币圈课件',
+        text: '币圈课件2222',
         collapsed:true,
         items: [
           {
-            text: '技术类课程',
+            text: '新手入门',
             collapsed:true,
             items: [
-              { text: '小节1', link: '/new-submenu1' },
-              { text: '小节23', link: '/new-submenu2' }
+              { text: '交易所注册', link: '/新手入门/注册交易所.md' },
+              { text: '买币、钱包、链上', link: '/新手入门/买币钱包链上.md' },
+              { text: '币圈工具', link: '/新手入门/币圈工具.md' },
+              { text: '链上土狗暴赚入门', link: '/新手入门/链上土狗.md' },
+              { text: '电报隐私设置指南', link: '/新手入门/电报安全.md' }
             ]
           },
           { text: '币圈圣经', link: '/api-examples' },
@@ -134,7 +137,7 @@ export default defineConfig({
           { text: '副业学习', link: '/学习资料/副业学习.md' },
           { text: '实用课程', link: '/学习资料/实用课程.md' },
           { text: '公众号付费', link: '/学习资料/公众号付费.md' },
-          { text: '提高认知', link: '//学习资料/提高认知.md' },
+          { text: '提高认知', link: '/学习资料/提高认知.md' },
           { text: '知乎盐选付费', link: '/学习资料/知乎盐选付费.md' },
           { text: '学家实操千倍收益', link: '/学习资料/千倍收益.md' } 
         ]
