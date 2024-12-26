@@ -127,16 +127,16 @@ export default defineConfig({
         collapsed:true,
         items: [
           { text: '币圈经典', link: '/学习资料/币圈经典.md'},
-          { text: '币圈圣经', link: '/学习资料/币圈经典.md' },
-          { text: '阅读书籍', link: '/学习资料/币圈经典.md' },
-          { text: '视频课程', link: '/学习资料/币圈经典.md' },
-          { text: '财经课程', link: '/学习资料/币圈经典.md' },
-          { text: '副业学习', link: '/学习资料/币圈经典.md' },
-          { text: '实用课程', link: '/学习资料/币圈经典.md' },
-          { text: '公众号付费', link: '/学习资料/币圈经典.md' },
-          { text: '副业学习', link: '//学习资料/币圈经典.md' },
-          { text: '知乎盐选付费文章', link: '/学习资料/币圈经典.md' },
-          { text: '学家实操千倍收益', link: '/学习资料/币圈经典.md' } 
+          { text: '币圈圣经', link: '/学习资料/币圈圣经.md' },
+          { text: '阅读书籍', link: '/学习资料/阅读书籍.md' },
+          { text: '视频课程', link: '/学习资料/视频课程.md' },
+          { text: '财经课程', link: '/学习资料/财经课程' },
+          { text: '副业学习', link: '/学习资料/副业学习.md' },
+          { text: '实用课程', link: '/学习资料/实用课程.md' },
+          { text: '公众号付费', link: '/学习资料/公众号付费.md' },
+          { text: '提高认知', link: '//学习资料/提高认知.md' },
+          { text: '知乎盐选付费', link: '/学习资料/知乎盐选付费.md' },
+          { text: '学家实操千倍收益', link: '/学习资料/千倍收益.md' } 
         ]
       },{
         text: 'KOL收录',
