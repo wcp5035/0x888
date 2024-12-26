@@ -104,7 +104,7 @@ export default defineConfig({
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '币圈课件2222',
+        text: '成长导航',
         collapsed:true,
         items: [
           {
@@ -118,12 +118,9 @@ export default defineConfig({
               { text: '电报隐私设置指南', link: '/新手入门/电报安全.md' }
             ]
           },
-          { text: '币圈圣经', link: '/api-examples' },
-          { text: '提高认知', link: '/api-examples' },
-          { text: '财经类课程', link: '/api-examples' },
-          { text: '推荐阅读书籍', link: '/api-examples' },
-          { text: '公众号付费文', link: '/api-examples' },
-          { text: '课知乎盐选付费文章合辑', link: '/api-examples' }
+          { text: 'web3导航', link: 'https://mct.xyz/nav' },
+          { text: '稳定币年化利息', link: '/新手入门/稳定币年化利息.md' },
+          { text: '安全出金', link: '/新手入门/安全出金.md' }
         ]
       },{
         text: '学习资料',
