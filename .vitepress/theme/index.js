@@ -6,13 +6,13 @@ import './style.css'
 /** @type {import('vitepress').Theme} */
 export default {
   extends: DefaultTheme,
-  Layout: () => {
+  Layout() {
     return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
+    }) 
   },
   enhanceApp({ app, router, siteData }) {
     // ...
   }
 }
+
 

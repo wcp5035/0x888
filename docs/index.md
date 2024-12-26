@@ -4,12 +4,12 @@ layout: home
 title: XMDog
 titleTemplate: 加密贴身专家，泄密狗
 hero:
-  name: "付费加密信号"
+  name: "泄密狗"
   text: "利用我们的信号获利"
   tagline: 加入全球 +140 个最佳加密货币 VIP 频道
   image:
     src: /logo.png
-    alt: 币加索
+    alt: 泄密狗
   actions:
     - theme: brand
       text: 实列
