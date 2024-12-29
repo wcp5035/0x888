@@ -121,7 +121,6 @@ export default defineConfig({
           { text: 'web3导航', link: 'https://mct.xyz/nav' },
           { text: '稳定币年化利息', link: '/新手入门/稳定币年化利息.md' },
           { text: '安全出金', link: '/新手入门/安全出金.md' },
-          { text: '暗黑森里自保手册', link: '/新手入门/暗黑森里自保手册.md' },
           { text: '如何拥有一个低资费的境外手机号', link: '/新手入门/如何拥有一个低资费的境外手机号.md' }
         ]
       },{
