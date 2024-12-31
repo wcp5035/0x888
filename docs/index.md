@@ -8,7 +8,7 @@ hero:
   text: "利用我们的信号获利"
   tagline: 加入全球 +140 个最佳加密货币 VIP 频道
   image:
-    src: /logo.png
+    src: https://m2492468.695354.xyz/img/2024/12/31/12o3hp9.svg
     alt: 泄密狗
   actions:
     - theme: brand

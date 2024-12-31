@@ -162,7 +162,7 @@ export default defineConfig({
         link: '...'},
     ],
     footer: {
-      copyright:"Encrypted community@ 2024 币加索",
+      copyright:"Encrypted community@ 2025 泄密狗",
    },
       // 设置搜索框的样式
       search: {
