@@ -42,20 +42,20 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '1',
+        text: '泄密狗',
         collapsed:true,
         items: [
-          { text: '课程1', link: '/pdjg.md'},
+          { text: '泄密狗属性', link: '/pdjg.md'},
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
+          { text: '订阅计划', link: '/api-examples' },
+          { text: '常见问题', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '2',
+        text: '频道结构',
         collapsed:true,
         items: [
           { text: '课程1', link: '/markdown-examples'},
@@ -63,8 +63,8 @@ export default defineConfig({
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
+          { text: 'wwg组织', link: '/api-examples' },
+          { text: 'dr斗兽场组织', link: '/api-examples' },
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
@@ -108,6 +108,8 @@ export default defineConfig({
               { text: '电报隐私设置指南', link: '/新手入门/电报安全.md' }
             ]
           },
+          { text: '什么是区块链', link: '/新手入门/什么是区块链.md' },
+          { text: '区块链入门', link: '/新手入门/区块链入门.md' },
           { text: 'web3导航', link: 'https://mct.xyz/nav' },
           { text: '稳定币年化利息', link: '/新手入门/稳定币年化利息.md' },
           { text: '安全出金', link: '/新手入门/安全出金.md' },
