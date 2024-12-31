@@ -34,20 +34,10 @@ export default defineConfig({
     sidebarMenuLabel: '目录',
     
     nav: [
-      { text: '毕加索聚合', link: '/' },
-      { text: '频道列表', link: '/team' },
-      {
-         text: '学习课件', 
-         items: [{
-          text:' 聚合清单',
-          link: '/home'
-         }
-
-         ]
-         },
-      { text: '订阅计划', link: '/mddang.md' },
+      { text: '课件学习', link: '/学习资料/币圈经典.md' },
+      { text: '订阅计划', link: '/listhome/订阅计划.md' },
       { text: '联系我们', link: '/' },
-      { text: '订最新动态', link: '/' },
+      { text: '最新动态', link: '/' },
     ],
 
     sidebar: [
