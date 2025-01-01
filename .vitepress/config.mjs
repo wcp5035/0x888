@@ -34,6 +34,7 @@ export default defineConfig({
 image: {
   lazyLoading: true
 },
+
 darkModeSwitchLabel: '深浅模式',
     // 移动端 - menu
     sidebarMenuLabel: '目录',
@@ -73,24 +74,35 @@ darkModeSwitchLabel: '深浅模式',
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '系3',
+        text: '高比返佣',
         collapsed:true,
         items: [
-          { text: '课程1', link: '/markdown-examples'},
+          { text: '交易返佣', link: '/返佣doc/返佣表单.md'},
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
+          {
+            text: 'KYC变更',
+            collapsed:true,
+            items: [
+              { text: 'Bitget变更返佣', link: '/返佣doc/Bitget变更返佣.md' },
+              { text: 'Bybit变更返佣', link: '/返佣doc/Bybit变更返佣.md' },
+              { text: 'Gate变更返佣', link: '/返佣doc/Gate变更返佣.md' },
+              { text: '币安变更返佣', link: '/返佣doc/币安变更返佣.md' },
+              { text: '电报隐私设置指南', link: '/新手入门/电报安全.md' }
+            ]
+          },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
-        text: '系4',
+        text: '实用工具',
         collapsed:true,
         items: [
-          { text: '课程1', link: '/markdown-examples'},
-          { text: '课程2s', link: '/api-examples' },
+          { text: '创建TG机器人', link: '/工具/tgbot.md'},
+          { text: 'Clash安装使用', link: '/工具/Clash.md' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },

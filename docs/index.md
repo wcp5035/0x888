@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+
 title: XMDog
 titleTemplate: 加密贴身专家，泄密狗
 hero:
