@@ -36,8 +36,8 @@ export default defineConfig({
     nav: [
       { text: '课件学习', link: '/学习资料/币圈经典.md' },
       { text: '订阅计划', link: '/listhome/订阅计划.md' },
-      { text: '联系我们', link: '/' },
-      { text: '最新动态', link: '/listhome/常见问题解答.md' },
+      { text: '最新动态', link: '/CHANGELOG.md' },
+      { text: '常见问题', link: '/listhome/常见问题解答.md' },
     ],
 
     sidebar: [
