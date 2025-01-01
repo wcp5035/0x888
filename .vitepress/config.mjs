@@ -26,10 +26,15 @@ export default defineConfig({
       prev: '上一篇',
       next: '下一篇'
     },
-
+  //启用深色模式
+  appearance: 'dark',
     // 移动端 - 返回顶部
     returnToTopLabel: '返回顶部',
-
+// 开启图片懒加载
+image: {
+  lazyLoading: true
+},
+darkModeSwitchLabel: '深浅模式',
     // 移动端 - menu
     sidebarMenuLabel: '目录',
     
@@ -46,7 +51,7 @@ export default defineConfig({
         collapsed:true,
         items: [
           { text: '泄密狗属性', link: '/pdjg.md'},
-          { text: '课程2s', link: '/api-examples' },
+          { text: '加入', link: '/listhome/加入社区.md' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
           { text: '订阅计划', link: '/api-examples' },
