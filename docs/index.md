@@ -17,7 +17,7 @@ hero:
       link: /listhome/start
     - theme: alt
       text: 加入返佣
-      link: /KOL收录清单/策略推过类博主
+      link: /返佣doc/返佣表单
 
 features:
   - icon: 🎯
