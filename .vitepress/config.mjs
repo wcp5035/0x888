@@ -51,26 +51,18 @@ image: {
         text: '泄密狗',
         collapsed:true,
         items: [
-          { text: '泄密狗属性', link: '/pdjg.md'},
-          { text: '加入', link: '/listhome/加入社区.md' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
+          { text: '开始探索', link: '/listhome/start.md'},
+          { text: '频道列表', link: '/listhome/加入社区.md' },
           { text: '订阅计划', link: '/listhome/订阅计划' },
-          { text: 'FAQ', link: '/listhome/常见问题解答' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程25', link: '/api-examples' } 
+          { text: '常见问题', link: '/listhome/常见问题解答' },
+          { text: '最新动态', link: '/CHANGELOG.md' },
+          { text: '软件定制', link: '/listhome/软件定制.md' } 
         ]
       },{
         text: '频道结构',
         collapsed:true,
         items: [
-          { text: '课程1', link: '/markdown-examples'},
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: 'wwg组织', link: '/api-examples' },
-          { text: 'dr斗兽场组织', link: '/api-examples' },
+          { text: '频道结构', link: '/markdown-examples'},
           { text: '课程25', link: '/api-examples' } 
         ]
       },{
@@ -78,9 +70,7 @@ image: {
         collapsed:true,
         items: [
           { text: '交易返佣', link: '/返佣doc/返佣表单.md'},
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
+          { text: '返佣查询', link: '/api-examples' },
           {
             text: 'KYC变更',
             collapsed:true,
@@ -88,27 +78,16 @@ image: {
               { text: 'Bitget变更返佣', link: '/返佣doc/Bitget变更返佣.md' },
               { text: 'Bybit变更返佣', link: '/返佣doc/Bybit变更返佣.md' },
               { text: 'Gate变更返佣', link: '/返佣doc/Gate变更返佣.md' },
-              { text: '币安变更返佣', link: '/返佣doc/币安变更返佣.md' },
-              { text: '电报隐私设置指南', link: '/新手入门/电报安全.md' }
+              { text: '币安变更返佣', link: '/返佣doc/币安变更返佣.md' }
             ]
-          },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程25', link: '/api-examples' } 
+          }
         ]
       },{
         text: '实用工具',
         collapsed:true,
         items: [
           { text: '创建TG机器人', link: '/工具/tgbot.md'},
-          { text: 'Clash安装使用', link: '/工具/Clash.md' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程2s', link: '/api-examples' },
-          { text: '课程25', link: '/api-examples' } 
+          { text: 'Clash安装使用', link: '/工具/Clash.md' }
         ]
       },{
         text: '成长导航',
