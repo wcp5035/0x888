@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 开始探索🚀
-      link: /team.md
+      link: /listhome/start
     - theme: alt
       text: 加入返佣
       link: /KOL收录清单/策略推过类博主
