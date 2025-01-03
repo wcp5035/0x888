@@ -55,8 +55,8 @@ image: {
           { text: '加入', link: '/listhome/加入社区.md' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程2s', link: '/api-examples' },
-          { text: '订阅计划', link: '/api-examples' },
-          { text: '常见问题', link: '/api-examples' },
+          { text: '订阅计划', link: '/listhome/订阅计划' },
+          { text: 'FAQ', link: '/listhome/常见问题解答' },
           { text: '课程2s', link: '/api-examples' },
           { text: '课程25', link: '/api-examples' } 
         ]
