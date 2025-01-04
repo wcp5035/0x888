@@ -38,7 +38,7 @@
 
 那么，在比特币出现之前，我们都用什么东西储值呢？也就是说，我们赚了一笔钱，除去消费余下的部分，我们会以什么形式来保存财富呢？它们主要是黄金、货币和不动产。
 
-![01](images/01.jpeg)
+![01](https://github.com/wcp5035/0x888/blob/main/docs/images/01.jpeg?raw=true)
 
 图1. 世界黄金、货币和不动产总量（修改自http://money.visualcapitalist.com/）
 

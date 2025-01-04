@@ -8,7 +8,7 @@
 
 例如，如果以比特币为参考系，我们看到的美元走势是这样的（图1）。
 
-![10](images/10.jpeg)
+![10](https://github.com/wcp5035/0x888/blob/main/docs/images/10.jpeg?raw=true)
 
 图1. 美元相对比特币价格（单位：1聪 = 0.00000001比特币）
 
@@ -82,7 +82,7 @@
 
 如果你已经有了3个亿，再增加7个亿并不能给你带来多少快乐。持有1个比特币，有多富有呢？你已经可以跻身全球TOP万分之一了。
 
-![11](images/11.jpeg)
+![11](https://github.com/wcp5035/0x888/blob/main/docs/images/11.jpeg?raw=true)
 
 图2. 比特币地址余额分布（数据源：bitinfocharts.com）
 
