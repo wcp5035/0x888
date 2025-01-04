@@ -26,7 +26,7 @@
 
 结果如下：
 
-![02](hhttps://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/02.jpeg)
+![02](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/02.jpeg)
 
 表1. 两种增长模型的比特币价格预测
 
