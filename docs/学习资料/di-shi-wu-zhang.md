@@ -8,7 +8,7 @@
 
 废话不多说，先上图。
 
-![13](https://github.com/wcp5035/0x888/blob/main/docs/images/13.jpeg?raw=true)
+![13](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/13.jpeg)
 
 这两张图大家应该很熟悉了。上面的图红色的线是币价，蓝色虚线就是币价的指数拟合线，绿色的线是200日定投成本线。当币价（红线）低于指数拟合线（蓝线）和200日定投成本线（绿线)时，就是很好的囤币时机。
 
@@ -16,7 +16,7 @@
 
 其实很简单，我们看下图：
 
-![14](https://github.com/wcp5035/0x888/blob/main/docs/images/14.jpeg?raw=true)
+![14](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/14.jpeg)
 
 这个图是币价对币龄的图，都是对数坐标。币龄就是比特币出生了多少天（比特币的生日是2009年1月3日）。我们发现，在这张图上，币价对币龄呈现线性关系，拟合的结果是Y = 5.84X- 17.01。那么，换回普通坐标，币价和币龄就是指数关系：币价 = 10^[5.84log(币龄)-17.01]。
 
@@ -34,12 +34,12 @@
 
 首先，我们分析一下，ahr999指数在历史上的分布，见下图。
 
-![15](https://github.com/wcp5035/0x888/blob/main/docs/images/15.jpeg?raw=true)
+![15](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/15.jpeg)
 
 我们发现，只有8.5%的时间，ahr999指数小于0.45，这就是抄底区间；有46.3%的时间，ahr999指数在0.45与1.2之间，这就是定投区间；有29.3%的时间，ahr999指数在1.2与5之间，这就是等待起飞的区间。当然，还有ahr999指数大于5的时间，不过我们不准备卖币，所以不考虑了。
 
 然后，我们再来结合ahr999指数看币价的走势。
 
-![16](https://github.com/wcp5035/0x888/blob/main/docs/images/16.jpeg?raw=true)
+![16](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/16.jpeg)
 
 怎么样？今天的ahr999指数是0.68。你对后续走势，有什么看法？欢迎留言。

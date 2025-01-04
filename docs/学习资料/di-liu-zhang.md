@@ -68,7 +68,7 @@
 
 至于选择哪个钱包工具，可以参考（https://bitcoin.org/en/choose-your-wallet），它对每个钱包都有一个简单的介绍：
 
-![03](https://github.com/wcp5035/0x888/blob/main/docs/images/03.jpeg?raw=true)
+![03](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/03.jpeg)
 
 图1. Bitcoin Core 钱包简介
 

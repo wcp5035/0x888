@@ -22,7 +22,7 @@
 
 我们先看看比特币的难度增长（图1），虽然比特币价格起伏很大，但是难度基本没有出现过回调，而是单向上涨。
 
-![07](https://github.com/wcp5035/0x888/blob/main/docs/images/07.jpeg?raw=true)
+![07](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/07.jpeg)
 
 图1. 比特币的挖矿难度增长（数据来源：btc.com）
 
@@ -46,7 +46,7 @@
 
 **什么叫相对较低的位置呢**？我们再来看看比特币的历史价格（图2）。
 
-![08](https://github.com/wcp5035/0x888/blob/main/docs/images/08.jpeg?raw=true)
+![08](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/08.jpeg)
 
 图2. 比特币历史价格和200日定投平均成本
 
@@ -67,7 +67,7 @@
 
 我们看看这两个比值的历史走势（图3）。
 
-![09](https://github.com/wcp5035/0x888/blob/main/docs/images/09.jpeg?raw=true)
+![09](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/09.jpeg)
 
 图3. 比特币价格/200日定投成本和比特币价格/指数增长估值
 

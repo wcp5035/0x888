@@ -20,7 +20,7 @@
 
 让我们首先一起来回顾一下币价的变化。
 
-![17](https://github.com/wcp5035/0x888/blob/main/docs/images/17.jpeg?raw=true)
+![17](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/17.jpeg)
 
 图1. 2014年比特币走势（数据来源：coinmarketcap.com）
 
@@ -30,7 +30,7 @@
 
 但是，你再看看下面这张图。
 
-![18](https://github.com/wcp5035/0x888/blob/main/docs/images/18.jpeg?raw=true)
+![18](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/18.jpeg)
 
 图2. 2018年比特币走势（数据来源：coinmarketcap.com）
 

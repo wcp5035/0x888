@@ -10,7 +10,7 @@
 
 首先，我们看看比特币过去的价格走势（图1）。
 
-![04](https://github.com/wcp5035/0x888/blob/main/docs/images/04.jpeg?raw=true)
+![04](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/04.jpeg)
 
 图1. 比特币历史价格拟合和未来价格预测（数据源：bitcoinity）
 
@@ -22,7 +22,7 @@
 
 我们可以简单把比特币市场分为3类参与者：囤币、矿工、炒币（图2）。
 
-![05](https://github.com/wcp5035/0x888/blob/main/docs/images/05.jpeg?raw=true)
+![05](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/05.jpeg)
 
 图2. 比特币市场参与者示意图
 
@@ -34,7 +34,7 @@
 
 **比特币持续不断流入囤币者手中。**这是必然趋势，因为囤币是只买不卖的。在总量被限制的情况下，流通比特币只会越来越少，只有9%的币，其币龄小于1个月，只有2%的币，其币龄小于1天，（图3）。
 
-![06](https://github.com/wcp5035/0x888/blob/main/docs/images/06.jpeg?raw=true)
+![06](https://raw.githubusercontent.com/wcp5035/0x888/refs/heads/main/docs/images/06.jpeg)
 
 图3. 不同币龄比特币的分布比例（数据源http://hodlwave.com/）
 
