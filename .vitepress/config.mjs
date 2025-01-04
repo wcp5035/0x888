@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-// base: "/docs-demo/" 这个是用来配置单域名多站点的情况的，没这个需求就不用配置
+// base: "/docs-demo/" 这个是用来配置单域名多站点的情况的,没这个需求就不用配置
 export default defineConfig({
   title: "XMDOG",
   description: "haha",
@@ -115,6 +115,33 @@ image: {
         text: '学习资料',
         collapsed:true,
         items: [
+          {
+            text: '屯比特币',
+            collapsed:true,
+            items: [
+              { text: '四年一个轮回，不光有世界杯，还有比特币', link: '/学习资料/gu-shi-yi' },
+              { text: '上一轮熊市', link: '/学习资料/gu-shi-er' },
+              { text: '牛市起点的故事', link: '/学习资料/gu-shi-san' },
+              { text: '序章', link: '/学习资料/xu-zhang' },
+              { text: '第一章 比特币与理想主义', link: '/学习资料/di-yi-zhang' },
+              { text: '第二章 下车太早只因愿景太小', link: '/学习资料/di-er-zhang' },
+              { text: '第三章 囤比特币：你离财富自由还有多远？', link: '/学习资料/di-san-zhang' },
+              { text: '第四章 囤比特币：冲动、孤独、无聊与矛盾', link: '/学习资料/di-si-zhang' },
+              { text: '第五章 囤比特币：手握私钥的快感', link: '/学习资料/di-wu-zhang' },
+              { text: '第六章 囤比特币：如何管理私钥？', link: '/学习资料/di-liu-zhang' },
+              { text: '第七章 囤比特币：基本价格模型', link: '/学习资料/di-qi-zhang' },
+              { text: '第八章 囤比特币：寻找合适的购买时机', link: '/学习资料/di-ba-zhang' },
+              { text: '第九章 囤比特币：唯有比特币', link: '/学习资料/di-jiu-zhang' },
+              { text: '第十章 囤比特币：不要跟着感觉走', link: '/学习资料/di-shi-zhang' },
+              { text: '第十一章 囤比特币：币本位思维', link: '/学习资料/di-shi-yi-zhang' },
+              { text: '第十二章 囤比特币：心中无币', link: '/学习资料/di-shi-er-zhang' },
+              { text: '第十三章 囤比特币：打造强节点', link: '/学习资料/di-shi-san-zhang' },
+              { text: '第十四章 囤比特币：运行全节点', link: '/学习资料/di-shi-si-zhang' },
+              { text: '第十五章 囤比特币：ahr999 指数', link: '/学习资料/di-shi-wu-zhang' },
+              { text: '终章 不忘初心', link: '/学习资料/zhong-zhang' }
+
+            ]
+          },
           { text: '币圈经典', link: '/学习资料/币圈经典.md'},
           { text: '币圈圣经', link: '/学习资料/币圈圣经.md' },
           { text: '阅读书籍', link: '/学习资料/阅读书籍.md' },
@@ -141,7 +168,7 @@ image: {
     ],
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://x.com/a8bot' },
+      { icon: 'x', link: 'https://x.com/a8bot' },
       { icon: 'telegram', link: 'https://t.me/bjs66' },
       {
         icon: {
