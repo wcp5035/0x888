@@ -2,7 +2,7 @@
 ---
 # 2025/1/10（频道新增）
 - follis 策略点位.分析 [推特](https://x.com/follis_) 
-- pierre 策略点位.分析[推特](https://x.com/pierre_crypt0_)
+- pierre 策略点位.分析[推特](https://x.com/pierre_crypt0)
 - krillin 策略点位.分析[推特](https://x.com/LSDinmycoffee)
 - Mayne 策略点位.分析[X推特](https://x.com/Tradermayne)
 - Ken 策略点位.分析[推特](https://x.com/KenCharts)
