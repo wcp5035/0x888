@@ -24,8 +24,8 @@
 }
 
 .dark {
-    --custom-block-info-left: #cccccc;
-    --custom-block-info-bg: #474748;
+    --custom-block-info-left: #474748;
+    --custom-block-info-bg: #cccccc;
 
     --custom-block-tip-left: #009400;
     --custom-block-tip-bg: #003100;
