@@ -52,7 +52,6 @@ image: {
         collapsed:true,
         items: [
           { text: '开始探索', link: '/listhome/start.md'},
-          { text: '频道列表', link: '/listhome/加入社区.md' },
           { text: '订阅计划', link: '/listhome/订阅计划' },
           { text: '常见问题', link: '/listhome/常见问题解答' },
           { text: '最新动态', link: '/CHANGELOG.md' },
@@ -62,8 +61,17 @@ image: {
         text: '频道结构',
         collapsed:true,
         items: [
-          { text: '频道结构', link: '/markdown-examples'},
-          { text: '课程25', link: '/api-examples' } 
+          { text: '中文交易', link: '/markdown-examples'},
+          { text: '宏观分析', link: '/markdown-examples'},
+          { text: '空投撸毛', link: '/markdown-examples'},
+          { text: '链上全员', link: '/markdown-examples'},
+          { text: '实盘交易', link: '/markdown-examples'},
+          { text: '数据监控', link: '/markdown-examples'},
+          { text: '加密新闻', link: '/markdown-examples'},
+          { text: '公告提醒', link: '/markdown-examples'},
+          { text: '国外交易', link: '/markdown-examples'},
+          { text: '智能总结', link: '/markdown-examples'},
+          { text: '数据查询', link: '/api-examples' } 
         ]
       },{
         text: '高比返佣',
