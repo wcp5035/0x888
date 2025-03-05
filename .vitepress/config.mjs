@@ -51,7 +51,7 @@ image: {
         text: '泄密狗',
         collapsed:true,
         items: [
-          { text: '开始探索', link: '/listhome/start.md'},
+          { text: '开始探索1', link: '/listhome/start.md'},
           { text: '订阅计划', link: '/listhome/订阅计划' },
           { text: '常见问题', link: '/listhome/常见问题解答' },
           { text: '最新动态', link: '/CHANGELOG.md' },
