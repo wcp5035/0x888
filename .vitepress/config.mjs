@@ -61,9 +61,9 @@ image: {
         text: '频道结构',
         collapsed:true,
         items: [
-          { text: '中文交易', link: '/markdown-examples'},
-          { text: '宏观分析', link: '/markdown-examples'},
-          { text: '空投撸毛', link: '/markdown-examples'},
+          { text: '频道介绍', link: '/频道结构/频道介绍.md'},
+          { text: '频道结构', link: '/频道结构/频道结构.md'},
+          { text: '空正确加入', link: '/markdown-examples'},
           { text: '链上全员', link: '/markdown-examples'},
           { text: '数据查询', link: '/api-examples' } 
         ]
