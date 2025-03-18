@@ -63,9 +63,7 @@ image: {
         items: [
           { text: '频道介绍', link: '/频道结构/频道介绍.md'},
           { text: '频道结构', link: '/频道结构/频道结构.md'},
-          { text: '空正确加入', link: '/markdown-examples'},
-          { text: '链上全员', link: '/markdown-examples'},
-          { text: '数据查询', link: '/api-examples' } 
+          { text: '空正确加入', link: '/频道结构/正确加入'}
         ]
       },{
         text: '高比返佣',
